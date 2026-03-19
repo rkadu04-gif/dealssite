@@ -176,7 +176,47 @@ color:white;
 margin:10px;
 text-decoration:none;
 }
+/* MOBILE RESPONSIVE FIX */
+@media (max-width: 768px) {
 
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 10px;
+  }
+
+  .logo-container {
+    margin-bottom: 10px;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  nav a {
+    font-size: 14px;
+    margin: 5px;
+  }
+
+  .hero h1 {
+    font-size: 24px;
+    padding: 0 10px;
+  }
+
+  .hero p {
+    font-size: 14px;
+  }
+
+  .product-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .product img {
+    height: 120px;
+  }
+
+}
 </style>
 
 </head>
