@@ -1,0 +1,61 @@
+[
+{
+"page":"all",
+"title":"Fire-Boltt Ninja Smartwatch",
+"image":"https://m.media-amazon.com/images/I/61S9aVnR+DL._SL1500_.jpg",
+"price":1299,
+"oldPrice":4999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Amazon"
+},
+
+{
+"page":"all",
+"title":"Prestige Electric Kettle",
+"image":"https://m.media-amazon.com/images/I/71YJ9hP7u8L._SL1500_.jpg",
+"price":899,
+"oldPrice":1999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Amazon"
+},
+
+{
+"page":"mobiles",
+"title":"iQOO Neo 7 5G",
+"image":"https://m.media-amazon.com/images/I/61JS7lF2aqL._SL1500_.jpg",
+"price":28999,
+"oldPrice":34999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Amazon"
+},
+
+{
+"page":"mobiles",
+"title":"OnePlus Nord CE 3",
+"image":"https://m.media-amazon.com/images/I/61QRgOgBx0L._SL1500_.jpg",
+"price":24999,
+"oldPrice":28999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Amazon"
+},
+
+{
+"page":"laptops",
+"title":"HP 15s Ryzen 5",
+"image":"https://m.media-amazon.com/images/I/71g+E7roXL._SL1500_.jpg",
+"price":45990,
+"oldPrice":59999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Amazon"
+},
+
+{
+"page":"earbuds",
+"title":"boAt Airdopes 141",
+"image":"https://m.media-amazon.com/images/I/51HBom8xz7L._SL1500_.jpg",
+"price":999,
+"oldPrice":2999,
+"link":"https://earnkaro.in/YOUR-LINK",
+"store":"Flipkart"
+}
+]
