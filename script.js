@@ -567,16 +567,135 @@ features:[
 "Lightweight in ear design",
 "Deep bass immersive sound output"
 ]
-}
+},
+
+
+/* ================= gadgets under 2000 ================= */
+
+{
+page:"gadgets",
+title:"Boat Stone 193 Pro /190 Pro",
+image:"https://m.media-amazon.com/images/I/81-KM86VkjL._SL1500_.jpg",
+price:999,
+oldPrice:2990,
+store:"Amazon",
+link:"https://amzn.to/3PZCaqL",
+features:[
+"5W signature sound with powerful bass output",
+"Up to 12 hours playback on single charge",
+"TWS feature for wireless stereo pairing",
+"Bluetooth v5.3 with AUX and TF card support",
+"IPX6 water resistant with built-in mic calling"
+]
+},
+
+{
+page:"gadgets",
+title:"Xiaomi Redmi 20000mAh",
+image:"https://m.media-amazon.com/images/I/51ouYV6QcxL._SL1226_.jpg",
+price:1500,
+oldPrice:3199,
+store:"Amazon",
+link:"https://amzn.to/4si6dax",
+features: [
+"20000mAh Massive Battery Backup",
+"18W Fast Charging Support",
+"USB-C & Micro USB Dual Input",
+"Low Power Mode for Small Devices"
+]
+},
+
+{
+page:"gadgets",
+title:"DIGITEK 67 Inch Foldable Tripod Stand",
+image:"https://m.media-amazon.com/images/I/51zvtBwm8iL._SL1200_.jpg",
+price:1599,
+oldPrice:2495,
+store:"Amazon",
+link:"https://amzn.to/4taqIaN",
+features: [
+"67 Inch Adjustable Tripod Stand",
+"360° Ball Head with Mobile Holder",
+"5kg Load Capacity Support",
+"Foldable Design with Carry Bag"
+]
+},
+
+{
+page:"gadgets",
+title:"Boat Stone 352 Pro/Stone 358 Pro w",
+image:"https://m.media-amazon.com/images/I/71o6CU8MqVL._SL1500_.jpg",
+price:1699,
+oldPrice:4990,
+store:"Amazon",
+link:"https://amzn.to/4md22M7",
+features:[
+"14W powerful signature sound with RGB LEDs",
+"12 hours battery playback single charge",
+"TWS feature for dual speaker stereo sound",
+"Bluetooth v5.3 with built-in mic support"
+]
+},
+
+{
+page:"gadgets",
+title:"boAt Airdopes 141 Elite ANC ",
+image:"https://m.media-amazon.com/images/I/716CRTrQzgL._SL1500_.jpg",
+price:1399,
+oldPrice:5990,
+store:"Amazon",
+link:"https://amzn.to/4cpgzRh",
+features:[
+"35dB ANC with quad mic ENx clear calling",
+"42 hours playback with ASAP fast charge",
+"Bluetooth v5.3 TWS with low latency mode",
+"IPX5 sweat resistant with app music support"
+]
+},
+
+{
+page:"gadgets",
+title:"Noise Vortex Plus 1.46 AMOLED Display",
+image:"https://m.media-amazon.com/images/I/61QiBo-sPTL._SL1500_.jpg",
+price:1999,
+oldPrice:6999,
+store:"Amazon",
+link:"https://amzn.to/4maBCKQ",
+features: [
+"1.46'' AMOLED Always-On Display",
+"Bluetooth Calling Support",
+"7 Days Battery Backup",
+"100+ Watch Faces with Health Tracking"
+]
+},
+{
+page:"gadgets",
+title:"URBN 20000mAh 35W Turbo Fast",
+image:"https://m.media-amazon.com/images/I/615LXD8Wr5L._SL1500_.jpg",
+price:1699,
+oldPrice:3999,
+store:"Amazon",
+link:"https://amzn.to/4sRAIVV",
+features:[
+"35W turbo fast charging power bank 20000mAh",
+"Dual output PD + QC fast charge support",
+"Two-way fast charging with pass-through mode",
+"Universal compatibility laptops & smartphones"
+]
+},
 
 ];
+
+
+
+	
 
 const container = document.getElementById("product-container");
 
 products
-.filter(p => pageType==="all" || p.page===pageType)
+.filter(p => p.page===pageType)
+.sort((a,b)=>((b.oldPrice-b.price)-(a.oldPrice-a.price)))
 .forEach(p=>{
-
 let discount = Math.round(((p.oldPrice-p.price)/p.oldPrice)*100);
 
 container.innerHTML += `
