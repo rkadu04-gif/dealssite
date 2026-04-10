@@ -709,7 +709,8 @@ container.innerHTML += `
 <span class="old-price">₹${p.oldPrice}</span>
 </div>
 
-<div class="discount">${discount}% OFF</div>
+<div class="discount">🔥 ${discount}% OFF</div>
+<div class="hot">HOT DEAL</div>
 
 <div style="font-size:12px;color:gray">
 Available on ${p.store}
@@ -724,7 +725,7 @@ ${p.features ? p.features.map(f=>`• ${f}<br>`).join("") : ""}
 </div>
 
 <button class="buy-btn" onclick="window.open('${p.link}')">
-View Deal
+✅ 🔥 GET DEAL – LIMITED TIME
 </button>
 
 </div>
