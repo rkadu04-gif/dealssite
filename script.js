@@ -408,8 +408,186 @@ features:[               // ADD HERE
 "5G dual SIM connectivity"]
 },
 
+{
+page:"mobiles",
+title:"iQOO Z10 5G",
+image:"https://m.media-amazon.com/images/I/61ca566nQ0L._SL1200_.jpg",
+price:26999,
+oldPrice:27999,
+store:"Amazon",
+link:"https://amzn.to/4vp6CL6",
+features:[
+"Snapdragon processor",
+"144Hz AMOLED display",
+"5000mAh battery",
+"64MP OIS camera"
+]
+},
+
+{
+page:"mobiles",
+title:"Motorola Edge 60 Fusion",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/a/g/a/-original-imahkcvg56ymmhue.jpeg?q=90",
+price:22999,
+oldPrice:24999,
+store:"Flipkart",
+link:"https://fktr.in/fpT36rP",
+features:[
+"pOLED 144Hz display",
+"Dimensity processor",
+"50MP OIS camera",
+"5000mAh battery"
+]
+},
+
+{
+page:"mobiles",
+title:"Realme 13 Pro 5G",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/y/i/o/-original-imah38pygcppb7tz.jpeg?q=90",
+price:29990,
+oldPrice:30999,
+store:"Flipkart",
+link:"https://fktr.in/jqXeVQ1",
+features:[
+"Snapdragon processor",
+"AMOLED curved display",
+"50MP Sony camera",
+"5200mAh battery"
+]
+},
+
+{
+page:"mobiles",
+title:"Nothing Phone 2a",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/q/y/m/-original-imagz7f9hzrahd2z.jpeg?q=90",
+price:25999,
+oldPrice:27999,
+store:"Flipkart",
+link:"https://fktr.in/1Kb83Ms",
+features:[
+"Glyph LED design",
+"120Hz AMOLED display",
+"Dimensity processor",
+"5000mAh battery"
+]
+},
+
+{
+page:"mobiles",
+title:"Samsung Galaxy A26 5G",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/f/n/k/-original-imahaggjbpfhwrhm.jpeg?q=90",
+price:24998,
+oldPrice:27999,
+store:"Flipkart",
+link:"https://fktr.in/vPd2kcn",
+features:[
+"120Hz AMOLED display",
+"50MP camera",
+"5000mAh battery",
+"Samsung OneUI"
+]
+},
+
+{
+page:"mobiles",
+title:"Redmi Note 14 Pro 5G",
+image:"https://m.media-amazon.com/images/I/71DsX0zIwRL._SL1500_.jpg",
+price:21999,
+oldPrice:28999,
+store:"Amazon",
+link:"https://amzn.to/4sqYSFS",
+features:[
+"200MP camera",
+"AMOLED 120Hz display",
+"5100mAh battery",
+"67W fast charging"
+]
+},
 
 
+
+{
+page:"mobiles",
+title:"Realme Narzo 80 Pro 5G",
+image:"https://m.media-amazon.com/images/I/71ZLe2G7GjL._SL1500_.jpg",
+price:21499,
+oldPrice:25999,
+store:"Amazon",
+link:"https://amzn.to/4ss8CzO",
+features:[
+"Dimensity processor",
+"120Hz AMOLED",
+"IP69 Waterproof",
+"5000mAh battery",
+"50MP camera"
+]
+},
+
+{
+page:"mobiles",
+title:"Vivo Y200 Pro 5G",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/6/n/c/y200-pro-5g-v2401-vivo-original-imah3nv84ed8wqzq.jpeg?q=90",
+price:26990,
+oldPrice:29999,
+store:"Flipkart",
+link:"https://fktr.in/srFtjh8",
+features:[
+"Curved AMOLED display",
+"64MP camera",
+"5000mAh battery",
+"Snapdragon processor"
+]
+},
+
+
+{
+page:"mobiles",
+title:"POCO X6 5G",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/p/l/j/-original-imah4mdg83jmzzm4.jpeg?q=90",
+price:21999,
+oldPrice:24999,
+store:"Flipkart",
+link:"https://fktr.in/gVq8isA",
+features:[
+"Snapdragon 7s Gen 2",
+"120Hz AMOLED",
+"5100mAh battery",
+"67W charging"
+]
+},
+
+{
+page:"mobiles",
+title:"Oppo K13 5G",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/mobile/w/a/g/-original-imahm5cxajhxvhsk.jpeg?q=90",
+price:24999,
+oldPrice:24999,
+store:"Flipkart",
+link:"https://fktr.in/VoIaRit",
+features:[
+"120Hz AMOLED",
+"Snapdragon processor",
+"5000mAh battery",
+"64MP camera"
+]
+},
+
+
+{
+page:"mobiles",
+title:"iQOO Z10R 5G",
+image:"https://m.media-amazon.com/images/I/61WM6IDaBPL._SL1200_.jpg",
+price:22999,
+oldPrice:23499,
+store:"Amazon",
+link:"https://amzn.to/4chomPN",
+features:[
+"Dimensity processor",
+"AMOLED display",
+"5000mAh battery",
+"50MP camera"
+]
+},
 /* ================= LAPTOPS ================= */
 
 {
@@ -487,6 +665,117 @@ features:[ "AMD Ryzen 7 5825U octa core processor",
 
 },
 
+
+{
+page:"laptops",
+title:"Lenovo IdeaPad Slim 3 Ryzen 5",
+image:"https://m.media-amazon.com/images/I/615itEeM5ZL._SL1080_.jpg",
+price:46990,
+oldPrice:59090,
+store:"Amazon",
+link:"https://amzn.to/41VZcl8",
+features:[
+"AMD Ryzen 5 processor",
+"15.6 inch Full HD display",
+"8GB RAM expandable",
+"512GB SSD storage",
+"Windows 11 pre installed",
+"Integrated AMD graphics",
+"Thin and lightweight body",
+"Rapid charge support",
+"WiFi and Bluetooth connectivity",
+"Multiple ports HDMI USB"
+]
+},
+
+{
+page:"laptops",
+title:"Acer Aspire Lite Ryzen 5",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/computer/b/k/d/-original-imahb2kbf2zdan3z.jpeg?q=90",
+price:46990,
+oldPrice:56999,
+store:"Flipkart",
+link:"https://fktr.in/T3dl6uP",
+features:[
+"AMD Ryzen 5 Hexa Core 5625U processor",
+"15.6 inch Full HD display",
+"16 GB RAM support",
+"512GB SSD storage",
+"Windows 11 OS",
+"Thin lightweight laptop",
+"Long battery life",
+"Multiple connectivity ports",
+"Full size keyboard",
+"Fast performance for office work"
+]
+},
+
+
+{
+page:"laptops",
+title:"Lenovo V15 Ryzen 5",
+image:"https://m.media-amazon.com/images/I/61pa6I2zW-L._SL1500_.jpg",
+price:49999,
+oldPrice:99999,
+store:"Amazon",
+link:"https://amzn.to/3OBcOiF",
+features:[
+"AMD Ryzen 5 processor",
+"15.6 inch Full HD display",
+"16 -GB RAM expandable",
+"512GB SSD storage",
+"Integrated Radeon graphics",
+"Windows 11 OS",
+"Business lightweight design",
+"Long battery backup",
+"WiFi Bluetooth support",
+"Multiple connectivity ports"
+]
+},
+
+{
+page:"laptops",
+title:"Acer Aspire 3 Ryzen 5",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/computer/l/l/t/-original-imagvkpfzdbz9jrf.jpeg?q=90",
+price:46790,
+oldPrice:49990,
+store:"Flipkart",
+link:"https://fktr.in/gTl0vP7",
+features:[
+"AMD Ryzen 5 processor",
+"15.6 inch Full HD display",
+"8GB DDR4 RAM",
+"512GB SSD storage",
+"Windows 11 operating system",
+"Thin lightweight laptop",
+"Long battery life",
+"Precision touchpad",
+"WiFi 6 connectivity",
+"Multiple USB ports"
+]
+},
+
+{
+page:"laptops",
+title:"HP 255 G10 Ryzen 3 7335U 16GB",
+image:"https://m.media-amazon.com/images/I/71tvlUVzTwL._SL1500_.jpg",
+price:49990,
+oldPrice:54999,
+store:"Amazon",
+link:"https://amzn.to/4vDvpeO",
+features:[
+"AMD Ryzen 3 7335U processor (up to 4.3GHz)",
+"15.6 inch Full HD anti glare display",
+"16GB DDR5 RAM high performance",
+"512GB NVMe SSD fast storage",
+"AMD Radeon 660M graphics",
+"Windows 11 pre installed",
+"USB C HDMI multiple connectivity",
+"WiFi Bluetooth support",
+"Thin lightweight 1.5kg design",
+"Long battery backup"
+]
+},
 /* ================= EARBUDS ================= */
 
 {
@@ -569,6 +858,154 @@ features:[
 ]
 },
 
+{
+page:"earbuds",
+title:"boAt Airdopes 141",
+image:"https://m.media-amazon.com/images/I/61Le9eThRLL._SL1500_.jpg",
+price:799,
+oldPrice:3990,
+store:"Amazon",
+link:"https://amzn.to/4chtHqj",
+features:[
+"42 hours total playback",
+"ENx call noise cancellation",
+"Bluetooth v5.3 connectivity",
+"Low latency gaming mode",
+"Fast charging ASAP support",
+"IPX4 water resistance",
+"Touch controls support",
+"13mm drivers deep bass"
+]
+},
+
+{
+page:"earbuds",
+title:"Noise Buds VS104",
+image:"https://m.media-amazon.com/images/I/51+e7yrgPpL._SL1500_.jpg",
+price:1099,
+oldPrice:3499,
+store:"Amazon",
+link:"https://amzn.to/3Q1rQyE",
+features:[
+"13mm drivers powerful bass",
+"45 hours playback",
+"Instacharge fast charging",
+"Bluetooth 5.2 support",
+"Touch control support",
+"Hyper sync technology",
+"IPX5 water resistance",
+"Lightweight design"
+]
+},
+{
+page:"earbuds",
+title:"Noise Buds N1",
+image:"https://rukminim2.flixcart.com/image/1536/1536/xif0q/headphone/d/j/b/-original-imahg82h772gnv3h.jpeg?q=90",
+price:1599,
+oldPrice:4999,
+store:"Flipkart",
+link:"https://fktr.in/8E8uW3u",
+features:[
+"60 hours playback",
+"Bluetooth 5.3 connectivity",
+"Quad mic ENC calling",
+"Low latency gaming mode",
+"Fast charging support",
+"Touch control support",
+"IPX5 resistance",
+"Deep bass sound"
+]
+},
+
+
+{
+page:"earbuds",
+title:"GOBOULT Mustang Torq",
+image:"https://m.media-amazon.com/images/I/71rbNPgK-RL._SL1500_.jpg",
+price:1424,
+oldPrice:5999,
+store:"Amazon",
+link:"https://amzn.to/4mn2Vlh",
+features:[
+"Up to 60 hours total playback",
+"Quad mic ENC clear calling",
+"45ms ultra low latency gaming",
+"13mm BoomX bass drivers",
+"Bluetooth 5.4 connectivity",
+"App support EQ customization",
+"Breathing LED design",
+"IPX5 water resistance",
+"Fast charging support",
+"Touch control support"
+]
+},
+
+{
+page:"earbuds",
+title:"soundcore by Anker R50i",
+image:"https://m.media-amazon.com/images/I/51lYR5xM97L._SL1500_.jpg",
+price:999,
+oldPrice:2998,
+store:"Amazon",
+link:"https://amzn.to/4c0S6li",
+features:[
+"10mm drivers big bass sound",
+"Bluetooth 5.3 connectivity",
+"Up to 30 hours playback",
+"AI dual mic clear calling",
+"22 preset EQ modes via app",
+"IPX5 water resistant design",
+"Low latency gaming mode",
+"Fast charging support",
+"Touch control support",
+"Lightweight compact case"
+]
+},
+
+
+{
+page:"earbuds",
+title:"realme Buds T200 Lite",
+image:"https://m.media-amazon.com/images/I/61qAzVmYAQL._SL1500_.jpg",
+price:1199,
+oldPrice:1999,
+store:"Amazon",
+link:"https://amzn.to/4tKUWRA",
+features:[
+"Up to 48 hours total playback",
+"4 mic AI ENC clear calling",
+"Ultra low latency gaming mode",
+"12.4mm dynamic bass drivers",
+"Bluetooth 5.4 connectivity",
+"Fast charging support",
+"Google fast pair support",
+"Touch control operation",
+"Lightweight comfortable fit",
+"IPX4 water resistance"
+]
+},
+
+{
+page:"earbuds",
+title:"boAt Airdopes 111v2",
+image:"https://m.media-amazon.com/images/I/71Ag3rxFZ4L._SL1500_.jpg",
+price:1199,
+oldPrice:4990,
+store:"Amazon",
+link:"https://amzn.to/4dAPSu6",
+features:[
+"Up to 50 hours total playback",
+"4 mics ENx call technology",
+"13mm dynamic bass drivers",
+"Bluetooth 5.3 connectivity",
+"Low latency gaming mode",
+"Leather finish premium case",
+"Dual device pairing support",
+"Fast charging ASAP support",
+"Touch controls support",
+"IPX4 water resistance"
+]
+},
 
 /* ================= gadgets under 2000 ================= */
 
@@ -710,7 +1147,6 @@ container.innerHTML += `
 </div>
 
 <div class="discount">🔥 ${discount}% OFF</div>
-<div class="hot">HOT DEAL</div>
 
 <div style="font-size:12px;color:gray">
 Available on ${p.store}
@@ -746,3 +1182,44 @@ btn.innerText="Hide Features";
 }
 
 }
+
+function renderSection(id, filterFn, limit=6){
+const el = document.getElementById(id);
+if(!el) return;
+
+products
+.filter(filterFn)
+.sort((a,b)=>((b.oldPrice-b.price)-(a.oldPrice-a.price)))
+.slice(0,limit)
+.forEach(p=>{
+
+let discount = Math.round(((p.oldPrice-p.price)/p.oldPrice)*100);
+
+el.innerHTML += `
+<div class="card">
+
+<div class="badge">🔥 ${discount}% OFF</div>
+
+<img src="${p.image}">
+<h3>${p.title}</h3>
+
+<div class="price">
+₹${p.price}
+<span class="old-price">₹${p.oldPrice}</span>
+</div>
+
+
+
+<a href="${p.link}" target="_blank">
+<button class="buy-btn">🛒 Check Deal</button>
+</a>
+
+</div>
+`;
+});
+}
+
+renderSection("trending", p=>true,8)
+renderSection("most", p=>true,6)
+renderSection("under999", p=>p.price<999,6)
+renderSection("amazon", p=>p.store==="Amazon",6)
