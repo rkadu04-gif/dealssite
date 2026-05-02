@@ -74,6 +74,19 @@ features:[
 ]
 },
 
+
+{
+page:"allindex",
+title:"boAt Bassheads 220 Wired Earphones Wired Headset",
+image:"https://www.flipkart.com/full-image-view",
+price:699,
+oldPrice:999,
+store:"flipkart",
+link:"https://fktr.in/Co4VCRa",
+features:[" wired earphone best in bass audio "
+]
+},
+
 {
 page:"allindex",
 title:"Bajaj PX 97 Torque New 36L",
