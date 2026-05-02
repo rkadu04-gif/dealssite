@@ -78,12 +78,13 @@ features:[
 {
 page:"allindex",
 title:"boAt Bassheads 220 Wired Earphones Wired Headset",
-image:"https://www.flipkart.com/full-image-view",
-price:699,
+image:"https://rukminim2.flixcart.com/image/1536/1536/kbgu1e80/headphone/j/p/2/bassheads-228-boat-original-imafstfzjvbhyhgf.jpeg?q=90",
+price:549,
 oldPrice:999,
 store:"flipkart",
-link:"https://fktr.in/Co4VCRa",
-features:[" wired earphone best in bass audio "
+link:"https://fktr.in/3Jrkseu",
+features:[
+" wired earphone best in bass audio ",
 ]
 },
 
