@@ -22,6 +22,28 @@ features:[
 "Lightweight & Portable"
 ]
 },
+		
+	{
+page:"allindex",
+title:"Portronics iKonnect",
+image:"https://m.media-amazon.com/images/I/61Lfhj2LdxL._SL1500_.jpg",
+price:219,
+oldPrice:499,
+store:"Amazon",
+link:"https://amzn.to/4urVdco",
+features:[
+"Built-in DAC Chip for High Quality Audio",
+"Type-C to 3.5mm Audio Jack Converter",
+"Hi-Fi Stereo Sound Output",
+"Supports Music & Calling (Mic Enabled)",
+"Plug & Play (No Drivers Required)",
+"Wide Compatibility (iPhone 15, Samsung, OnePlus, etc.)",
+"Noise Reduction & Stable Signal",
+"Durable Braided Cable Design",
+"Lightweight & Portable Design",
+"Compatible with Headphones, Car Aux & Speakers"
+]
+},
 
 {
 page:"allindex",
